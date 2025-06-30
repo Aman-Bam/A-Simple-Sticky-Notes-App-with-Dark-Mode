@@ -11,6 +11,16 @@ QuickNotes is a lightweight and beginner-friendly web app that lets you create, 
 - 💻 Fully responsive and mobile-friendly
 - ⚡ Fast and lightweight (no frameworks used)
 
+
+## 📸 Preview
+![Screenshot 2025-06-30 152855](https://github.com/user-attachments/assets/864b5e1f-9ff3-4c95-9064-e1cea3ddcc45)
+![Screenshot 2025-06-30 153018](https://github.com/user-attachments/assets/5ac9230d-f661-4fe6-afb0-da45939d223b)
+![Screenshot 2025-06-30 153148](https://github.com/user-attachments/assets/b6117032-e491-4902-bab1-7e9865063b74)
+
+
+
+
+
  🛠️ Tech Stack
 
 | Tech       | Use           |
